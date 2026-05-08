@@ -10,7 +10,7 @@
         "kl-components": "./lib/kl-components.common.js"
     },
     "version": "1.0.0",
-    "author": "BIgShark<908130255@qq.com>",
+    "author": "KylinWong<375506637@qq.com>",
     "license": "MIT",
     "private": false,
     "main": "lib/kl-components.common.js",
